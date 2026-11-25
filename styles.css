@@ -122,6 +122,13 @@ a {
   flex-shrink: 0;
 }
 
+.header-lockup-img {
+  height: 50px;
+  width: auto;
+  max-width: 220px;
+  object-fit: contain;
+}
+
 .brand-logo-img {
   width: 48px;
   height: 48px;
@@ -487,11 +494,14 @@ a {
 }
 
 .hero-avatar-img {
-  width: 76px;
-  height: 76px;
+  width: 84px;
+  height: 84px;
   border-radius: 50%;
   object-fit: cover;
-  border: 2.5px solid var(--gold);
+  object-position: center top;
+  border: 3px solid var(--gold);
+  flex-shrink: 0;
+  box-shadow: 0 4px 12px rgba(13, 27, 42, 0.14);
 }
 
 .card-kicker {
@@ -631,8 +641,53 @@ a {
 /* About */
 .about-grid {
   display: grid;
-  grid-template-columns: 1.05fr 0.95fr;
+  grid-template-columns: 0.78fr 1.22fr;
   gap: 28px;
+  align-items: start;
+}
+
+.about-portrait-card {
+  margin: 0;
+  background: var(--white);
+  border-radius: var(--radius-md);
+  border: 1px solid var(--border-subtle);
+  border-top: 4px solid var(--gold);
+  overflow: hidden;
+  box-shadow: var(--shadow-card);
+}
+
+.about-portrait-img {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 3 / 4;
+  object-fit: cover;
+  object-position: center top;
+}
+
+.about-portrait-caption {
+  background: var(--navy);
+  color: var(--white);
+  padding: 16px 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+}
+
+.about-portrait-caption strong {
+  font-family: var(--font-display);
+  font-size: 1rem;
+  font-weight: 800;
+  color: var(--gold);
+}
+
+.about-portrait-caption span {
+  font-size: 0.82rem;
+  color: var(--light-blue);
+}
+
+.about-cards-stack {
+  display: grid;
+  gap: 24px;
 }
 
 .card {
@@ -1605,6 +1660,10 @@ a {
   .edu-why-grid,
   .cta-grid {
     grid-template-columns: 1fr;
+  }
+  .about-portrait-card {
+    max-width: 380px;
+    margin-inline: auto;
   }
 }
 

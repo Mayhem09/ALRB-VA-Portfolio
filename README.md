@@ -6,9 +6,10 @@ Portfolio website for **Adrian Louise Bernardo** (**ALRB Virtual Assistant** —
 - `index.html` — Complete single-page portfolio aligned with your ALRB Brand Kit
 - `styles.css` — Exact ALRB color palette (`#0D1B2A`, `#3D5A80`, `#A7C0E0`, `#C8A165`, `#F2F4F7`), responsive layout, and print-to-PDF styling
 - `script.js` — Mobile drawer, sample tabs, interactive mock spreadsheet previews, copy-email button, and PDF print button
-- `assets/alrb-logo-dark.svg` — Horizontal ALRB logo for light backgrounds
-- `assets/alrb-logo-light.svg` — Horizontal ALRB logo for deep navy backgrounds
-- `assets/alrb-favicon.svg` — Circular ALRB submark & browser favicon
+- `alrb-header-logo.png` — Transparent horizontal ALRB Virtual Assistant logo for the header
+- `alrb-logo.png` — Transparent circular ALRB seal used for the browser favicon and dark Contact card
+- `adrian-headshot.jpg` — Circular headshot displayed in the Hero snapshot card
+- `adrian-portrait.jpg` — Studio portrait displayed in the About Me section
 - `PORTFOLIO-COPY.md` — Copy-and-paste text for Canva, Google Slides, PDFs, or job applications
 - `.nojekyll` — Ensures GitHub Pages serves static files cleanly
 
