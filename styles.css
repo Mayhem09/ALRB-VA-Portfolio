@@ -117,8 +117,65 @@ a {
 .brand-lockup {
   display: inline-flex;
   align-items: center;
+  gap: 12px;
   text-decoration: none;
   flex-shrink: 0;
+}
+
+.brand-logo-img {
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  object-fit: cover;
+  flex-shrink: 0;
+}
+
+.brand-text {
+  display: flex;
+  flex-direction: column;
+  line-height: 1.08;
+}
+
+.brand-name {
+  font-family: var(--font-display);
+  font-size: 1.28rem;
+  font-weight: 800;
+  letter-spacing: 0.22em;
+  color: var(--navy);
+}
+
+.brand-sub {
+  font-family: var(--font-display);
+  font-size: 0.62rem;
+  font-weight: 700;
+  letter-spacing: 0.24em;
+  color: var(--gold);
+  margin-top: 2px;
+  padding-bottom: 3px;
+  border-bottom: 1px solid var(--gold-35);
+}
+
+.brand-tag {
+  font-family: var(--font-body);
+  font-size: 0.56rem;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  color: var(--slate);
+  margin-top: 3px;
+}
+
+.brand-lockup-light .brand-name {
+  color: var(--white);
+}
+
+.brand-lockup-light .brand-tag {
+  color: var(--light-blue);
+}
+
+@media (max-width: 460px) {
+  .brand-tag {
+    display: none;
+  }
 }
 
 .primary-nav {
