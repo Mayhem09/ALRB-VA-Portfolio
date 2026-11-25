@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 84" fill="none" role="img" aria-label="ALRB Virtual Assistant logo">
+  <!-- Gold Orbit Accent -->
+  <path d="M22 65C14 55 13 38 22 25C31 12 49 7 63 14" stroke="#C8A165" stroke-width="2.75" stroke-linecap="round"/>
+  <path d="M67 22C75 33 74 51 64 63C54 74 37 77 25 70" stroke="#C8A165" stroke-width="2.75" stroke-linecap="round"/>
+  <circle cx="65.5" cy="16.5" r="2.2" fill="#C8A165"/>
+
+  <!-- Pixel / Data Dot Cluster (Left of A) -->
+  <rect x="6" y="34" width="4" height="4" rx="0.8" fill="#0D1B2A"/>
+  <rect x="12" y="29" width="4" height="4" rx="0.8" fill="#3D5A80"/>
+  <rect x="12" y="36" width="4" height="4" rx="0.8" fill="#0D1B2A"/>
+  <rect x="7" y="42" width="3.5" height="3.5" rx="0.8" fill="#3D5A80"/>
+  <rect x="14" y="44" width="4" height="4" rx="0.8" fill="#C8A165"/>
+  <rect x="9" y="49" width="3.5" height="3.5" rx="0.8" fill="#0D1B2A"/>
+
+  <!-- Geometric A (Deep Navy) -->
+  <path d="M21 63L38.5 19H46L61 63H52.5L49 52.5H33.5L29.5 63H21ZM36 45.5H46.5L41.8 30.5L36 45.5Z" fill="#0D1B2A"/>
+
+  <!-- Interlocking B (Slate Blue) -->
+  <path d="M47 26H59.5C66 26 70 29.5 70 34.8C70 38.5 67.8 41.3 64.3 42.5C68.8 43.6 71.5 47 71.5 51.8C71.5 58 66.8 62 59.8 62H47V26ZM54.2 39.8H59C61.8 39.8 63.3 38.4 63.3 36C63.3 33.7 61.8 32.3 59 32.3H54.2V39.8ZM54.2 55.6H59.5C62.7 55.6 64.5 54 64.5 51.2C64.5 48.5 62.7 46.8 59.5 46.8H54.2V55.6Z" fill="#3D5A80"/>
+  <!-- Data bars inside B -->
+  <rect x="55.5" y="49.5" width="7" height="1.8" rx="0.9" fill="#F2F4F7"/>
+  <rect x="55.5" y="52.6" width="5" height="1.8" rx="0.9" fill="#C8A165"/>
+
+  <!-- Wordmark -->
+  <text x="92" y="39" fill="#0D1B2A" font-family="'Plus Jakarta Sans', 'Segoe UI', Arial, sans-serif" font-size="28" font-weight="800" letter-spacing="5">ALRB</text>
+  <text x="93" y="56" fill="#C8A165" font-family="'Plus Jakarta Sans', 'Segoe UI', Arial, sans-serif" font-size="11.5" font-weight="700" letter-spacing="4.2">VIRTUAL ASSISTANT</text>
+  <line x1="93" y1="62" x2="348" y2="62" stroke="#C8A165" stroke-width="1" stroke-opacity="0.7"/>
+  <text x="93" y="74" fill="#3D5A80" font-family="'Inter', 'Segoe UI', Arial, sans-serif" font-size="9.5" font-weight="600" letter-spacing="1.6">ORGANIZED DATA. SIMPLIFIED BUSINESS.</text>
+</svg>

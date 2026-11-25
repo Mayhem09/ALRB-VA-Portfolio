@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" fill="none" role="img" aria-label="ALRB Submark">
+  <circle cx="48" cy="48" r="46" fill="#0D1B2A" stroke="#C8A165" stroke-width="2.5"/>
+  <!-- Gold Orbit Accent -->
+  <path d="M27 68C19 58 18 42 27 29C36 16 53 12 66 19" stroke="#C8A165" stroke-width="2.4" stroke-linecap="round"/>
+  <path d="M70 27C77 37 76 54 67 66C58 77 41 79 30 73" stroke="#C8A165" stroke-width="2.4" stroke-linecap="round"/>
+  <circle cx="68.5" cy="21" r="2" fill="#C8A165"/>
+
+  <!-- Pixel / Data Dot Cluster -->
+  <rect x="13" y="38" width="3.8" height="3.8" rx="0.8" fill="#FFFFFF"/>
+  <rect x="18.5" y="33" width="3.8" height="3.8" rx="0.8" fill="#A7C0E0"/>
+  <rect x="18.5" y="40" width="3.8" height="3.8" rx="0.8" fill="#FFFFFF"/>
+  <rect x="14" y="45.5" width="3.2" height="3.2" rx="0.8" fill="#A7C0E0"/>
+  <rect x="20" y="47.5" width="3.8" height="3.8" rx="0.8" fill="#C8A165"/>
+
+  <!-- Geometric A (White) -->
+  <path d="M26 66L42.5 24H49.5L63.5 66H55.5L52.2 56H37.8L34 66H26ZM40 49.5H50L45.5 35.2L40 49.5Z" fill="#FFFFFF"/>
+
+  <!-- Interlocking B (Light Blue) -->
+  <path d="M50.5 31H62C68 31 71.8 34.2 71.8 39.2C71.8 42.6 69.8 45.2 66.5 46.3C70.6 47.4 73.2 50.6 73.2 55C73.2 60.8 68.8 64.5 62.2 64.5H50.5V31ZM57.2 43.8H61.5C64.2 43.8 65.5 42.5 65.5 40.3C65.5 38.2 64.2 36.8 61.5 36.8H57.2V43.8ZM57.2 58.6H62C65 58.6 66.6 57.1 66.6 54.5C66.6 52 65 50.4 62 50.4H57.2V58.6Z" fill="#A7C0E0"/>
+  <rect x="58.5" y="53" width="6.5" height="1.7" rx="0.85" fill="#0D1B2A"/>
+  <rect x="58.5" y="55.8" width="4.5" height="1.7" rx="0.85" fill="#C8A165"/>
+</svg>
