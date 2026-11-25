@@ -10,6 +10,7 @@ Portfolio website for **Adrian Louise Bernardo** (**ALRB Virtual Assistant** —
 - `alrb-logo.png` — Transparent circular ALRB seal used for the browser favicon and dark Contact card
 - `adrian-headshot.jpg` — Circular headshot displayed in the Hero snapshot card
 - `adrian-portrait.jpg` — Studio portrait displayed in the About Me section
+- `game-burger-builder.jpg`, `game-voxel-ops.jpg`, `game-turf-boss.jpg` — Thumbnails for your featured Astrocade games
 - `PORTFOLIO-COPY.md` — Copy-and-paste text for Canva, Google Slides, PDFs, or job applications
 - `.nojekyll` — Ensures GitHub Pages serves static files cleanly
 
